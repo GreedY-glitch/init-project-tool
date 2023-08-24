@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcreate_project.a CMakeFiles/create_project.dir/files_init.cpp.o CMakeFiles/create_project.dir/fill_in.cpp.o
+/usr/bin/ranlib libcreate_project.a

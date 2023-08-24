@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/start.dir/main.cpp.o -o start  libcreate_project.a 

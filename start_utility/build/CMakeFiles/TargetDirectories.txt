@@ -1,0 +1,4 @@
+/home/greed/Desktop/Enterprise/start_utility/build/CMakeFiles/create_project.dir
+/home/greed/Desktop/Enterprise/start_utility/build/CMakeFiles/start.dir
+/home/greed/Desktop/Enterprise/start_utility/build/CMakeFiles/edit_cache.dir
+/home/greed/Desktop/Enterprise/start_utility/build/CMakeFiles/rebuild_cache.dir
